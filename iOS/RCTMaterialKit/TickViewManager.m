@@ -7,7 +7,7 @@
 //
 
 #import <React/RCTViewManager.h>
-#import <UIView+React.h>
+#import <React/RCTView.h>
 #import "TickView.h"
 
 @interface TickViewManager : RCTViewManager
